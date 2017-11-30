@@ -6,9 +6,6 @@ import com.example.fields.LabelField;
 import com.jagacy.Key;
 import com.jagacy.util.JagacyException;
 
-/**
- * Created by dxs8002 on 14/07/17.
- */
 public class HomeScreen {
 
     private Session session;
