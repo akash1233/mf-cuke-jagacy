@@ -38,7 +38,7 @@ public class THDMenuScreen {
      */
     public final THDSearchScreen typeusername()
             throws JagacyException {
-        session.setEntryFieldValue(actionEntryField, "dxs8002");
+        session.setEntryFieldValue(actionEntryField, "");
         session.writeKey(Key.ENTER);
         session.waitForChange(session.DEFAULT_TIMEOUT);
         return new THDSearchScreen(session);
