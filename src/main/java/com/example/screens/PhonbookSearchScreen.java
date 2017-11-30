@@ -9,9 +9,6 @@ import com.jagacy.util.JagacyException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by dxs8002 on 15/10/16.
- */
 public class PhonbookSearchScreen {
 
     private Session session;
